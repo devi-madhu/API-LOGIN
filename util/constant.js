@@ -4,10 +4,5 @@ module.exports={
 
 AUTH_FILE:'.auth/user.json',
 TOKEN_KEY:'auth-token',
-ROUTES:{
 
-    HOME:'/',
-    LOGIN:'/auth/login',
-    ACCOUNT:'/account',
-},
 };
